@@ -11,14 +11,14 @@ void main() {
 	countries.add("Japan");
 
 
-	List<int> numbersList = List();                         // Growable List: METHOD 2
+	List<int> numbersList = [];
 	numbersList.add(73);    // Insert Operation
 	numbersList.add(64);
 	numbersList.add(21);
 	numbersList.add(12);
 
 	numbersList[0] = 99;    // Update operation
-	numbersList[1] = null;  // Delete operation
+	// numbersList[1] = 0;  // Delete operation
 
 	print(numbersList[0]);
 
