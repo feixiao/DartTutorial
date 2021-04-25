@@ -1,5 +1,11 @@
 # Dart Programming Tutorial for Beginners 
 Learn Dart Programming, its basics and Fundamentals from scratch.
+```shell
+# Dart SDK
+# Dart SDK version: 2.12.3 (stable) (Wed Apr 14 11:02:39 2021 +0200) on "macos_x64"
+
+dart run 1_hello_world.dart
+```
 
 ## Topics to be covered
 0. Overview
